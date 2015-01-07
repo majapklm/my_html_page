@@ -1,0 +1,38 @@
+
+p {
+    color: green;
+}
+
+a {
+    color: yellow;
+
+}
+
+h1 {
+    color: orange;
+    background-color: yellow;
+}
+
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
+
+h1 {
+    font-size: 3.5em;
+    background-color: #009;
+    margin: 20px;
+    padding: 40px;
+}
+h1 {
+    border-style: groove;
+    border-width: 20px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-color: yellow;
+}
